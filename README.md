@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zohaib-liaqat-01
-- 👀 I’m interested in Girls
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me Gamil
 - 😄 Pronouns: Zebi
